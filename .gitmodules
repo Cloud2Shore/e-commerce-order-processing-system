@@ -1,0 +1,18 @@
+[submodule "e-commerce-inventory-service"]
+	path = e-commerce-inventory-service
+	url = https://github.com/Cloud2Shore/e-commerce-inventory-service.git
+[submodule "e-commerce-payment-service"]
+	path = e-commerce-payment-service
+	url = https://github.com/Cloud2Shore/e-commerce-payment-service.git
+[submodule "e-commerce-shipping-service"]
+	path = e-commerce-shipping-service
+	url = https://github.com/Cloud2Shore/e-commerce-shipping-service.git
+[submodule "e-commerce-order-service"]
+	path = e-commerce-order-service
+	url = https://github.com/Cloud2Shore/e-commerce-order-service.git
+[submodule "e-commerce-orchestrator-service"]
+	path = e-commerce-orchestrator-service
+	url = https://github.com/Cloud2Shore/e-commerce-orchestrator-service.git
+[submodule "e-commerce-eureka-server"]
+	path = e-commerce-eureka-server
+	url = https://github.com/Cloud2Shore/e-commerce-eureka-server.git
